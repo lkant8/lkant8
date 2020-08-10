@@ -42,7 +42,7 @@
 [twitter]: https://twitter.com/iamdarktheft
 [youtube]: https://youtube.com/codingWithdarktheft
 [instagram]: https://instagram.com/iamdarktheft
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://in.linkedin.com/in/laxmi-kant-1a853318b
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
