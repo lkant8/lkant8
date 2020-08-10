@@ -1,4 +1,4 @@
-### Hi there, I'm Laxmi kant - [darktheft.github.io][website] 👋
+### Hi there, I'm Laxmi kant - [darktheft][website] 👋
 
 ## I'm a Student, learner & Developer!
 - 🔭 I’m currently working on a [Android code][website]!
@@ -29,3 +29,17 @@
 
 <br />
 <br />
+
+
+
+
+
+[website]: https://darktheft.github.io
+[twitter]: https://twitter.com/iamdarktheft
+[youtube]: https://youtube.com/codingWithdarktheft
+[instagram]: https://instagram.com/iamdarktheft
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
