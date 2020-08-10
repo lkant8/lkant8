@@ -33,7 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [Comments in java application (Beginners)](https://www.youtube.com/watch?v=NYxC0WpBVoY)
+- [Java first application beginners](https://www.youtube.com/watch?v=H1NOITEX2rg)
+- [ESDM ( Electronic solar dynamo moter ) part 1](https://www.youtube.com/watch?v=SYXeG8QDau8)
+- [mobile development tutorials for beginner in hindi](https://www.youtube.com/watch?v=CzsfFxpL1Iw)
+- [🔴 Introduction of  Linear layout in android studio 2k20 top courses part 1of  1](https://www.youtube.com/watch?v=eETbOSdcm50)
 <!-- YOUTUBE:END -->
 
 
