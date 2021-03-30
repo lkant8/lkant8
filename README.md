@@ -57,8 +57,8 @@ https://paypal.me/darktheft
 
 
 
-<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
-<img align='right' src="https://komarev.com/ghpvc/?username=darktheft" alt="darktheft" />
+  <b align ='center'>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</b>
+  <img align='right' src="https://komarev.com/ghpvc/?username=darktheft" alt="darktheft" />
 
 
 [website]: https://darktheft.github.io
