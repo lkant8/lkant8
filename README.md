@@ -54,6 +54,9 @@ https://paypal.me/darktheft
 
 <img align="left" alt="Laxmi kant , Github Stats" src="https://github-readme-stats.vercel.app/api?username=darktheft&theme=blue-green&show_icons=true&hide_border=true" />
 
+<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
+<img align='right' src="https://komarev.com/ghpvc/?username=darktheft" alt="darktheft" />
+
 
 [website]: https://darktheft.github.io
 [twitter]: https://twitter.com/iamdarktheft
