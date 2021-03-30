@@ -59,9 +59,9 @@ https://paypal.me/darktheft
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheft&layout=compact" />
 -->
   
-  <b>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</b>
+  
+<b>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</b>
   <img align='right' src="https://komarev.com/ghpvc/?username=darktheft" alt="darktheft" />
-
 
 [website]: https://darktheft.github.io
 [twitter]: https://twitter.com/iamdarktheft
