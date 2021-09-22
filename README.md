@@ -1,4 +1,4 @@
-### Hi there, I'm Laxmi kant - [darktheft][website] 👋
+### Hi there, I'm Laxmi kant - [codewithfun][website] 👋
 
 ## I'm a Student, learner & Developer!
 - 🔭 I’m currently working on a [Android code][website]!
@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="darktheft.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codingWithdarktheft | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="iamdarktheft | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codewithfun.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codewithfun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="pal_meja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="laxmi kant pal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iandarktheft | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pal_meja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -50,7 +50,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Support
-https://paypal.me/darktheft
+https://paypal.me/codewithfun
 
 
 <img align="left" alt="Laxmi kant , Github Stats" src="https://github-readme-stats.vercel.app/api?username=darktheft&theme=blue-green&show_icons=true&hide_border=true" />
@@ -63,10 +63,10 @@ https://paypal.me/darktheft
 <b>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</b>
   <img align='right' src="https://komarev.com/ghpvc/?username=darktheft" alt="darktheft" />
 
-[website]: https://darktheft.github.io
-[twitter]: https://twitter.com/iamdarktheft
-[youtube]: https://youtube.com/codingWithdarktheft
-[instagram]: https://instagram.com/iamdarktheft
+[website]: https://dacodewithfun.github.io
+[twitter]: https://twitter.com/pal_meja
+[youtube]: https://youtube.com/codewithfun
+[instagram]: https://instagram.com/pal_meja
 [linkedin]: https://in.linkedin.com/in/laxmi-kant-1a853318b
 [webdevplaylist]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
 [jsplaylist]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
