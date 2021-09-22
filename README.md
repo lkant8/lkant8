@@ -1,4 +1,4 @@
-### Hi there, I'm Laxmi kant - [codewithfun][website] 👋
+### Hi there, I'm Laxmi kant - [codewith-fun][website] 👋
 
 ## I'm a Student, learner & Developer!
 - 🔭 I’m currently working on a [Android code][website]!
@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codewithfun.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codewith-fun.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codewithfun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="pal_meja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="laxmi kant pal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +24,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="android" width="26px" src="https://github.com/actions/starter-workflows/blob/948df6a3d0b8c4d80d97154eaa4bcbc157cff432/icons/android.svg" />][webdevplaylist]
-[<img align="left" alt="java" width="26px" src="https://github.com/darktheft/Flash/blob/master/PNG/java.png" />][webdevplaylist]
+[<img align="left" alt="java" width="26px" src="https://github.com/codewith-fun/Flash/blob/master/PNG/java.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
@@ -64,7 +64,7 @@ https://paypal.me/codewithfun
   <img align='right' src="https://komarev.com/ghpvc/?username=darktheft" alt="darktheft" />
 
 [website]: https://dacodewithfun.github.io
-[twitter]: https://twitter.com/pal_meja
+[twitter]: https://twitter.com/codewith_fun
 [youtube]: https://youtube.com/codewithfun
 [instagram]: https://instagram.com/pal_meja
 [linkedin]: https://in.linkedin.com/in/laxmi-kant-1a853318b
