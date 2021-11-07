@@ -46,7 +46,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [TabLayout like TestBook App using Java](https://medium.com/@codewith-fun/tablayout-like-testbook-app-using-java-81f309a90d09?source=rss-535b12e1a601------2)
+- [Machine Learning with tensorFlow lite in mobile apps](https://codewith-fun.medium.com/android-machine-learning-9f1c7f4947ef?source=rss-535b12e1a601------2)
+- [Application Class](https://codewith-fun.medium.com/application-class-d683574ac112?source=rss-535b12e1a601------2)
+- [Android Context](https://codewith-fun.medium.com/android-context-2371c3000c12?source=rss-535b12e1a601------2)
+- [Android Core interview questions part 1](https://codewith-fun.medium.com/android-core-interview-questions-part-1-b5d356056432?source=rss-535b12e1a601------2)
+- [TabLayout like TestBook App using Java](https://codewith-fun.medium.com/tablayout-like-testbook-app-using-java-81f309a90d09?source=rss-535b12e1a601------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Support
