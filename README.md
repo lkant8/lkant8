@@ -46,7 +46,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [TabLayout like TestBook App using Java](https://medium.com/@laxmipalkant01/tablayout-like-testbook-app-using-java-81f309a90d09?source=rss-535b12e1a601------2)
+- [TabLayout like TestBook App using Java](https://medium.com/@codewith-fun/tablayout-like-testbook-app-using-java-81f309a90d09?source=rss-535b12e1a601------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Support
