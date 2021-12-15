@@ -58,13 +58,14 @@
 ### 🔰 🔰 Services 🔨
  - SSL/SSH providing.
  - AWS Setup.
- - Custom C-panel setup
+ - 🔨 Custom C-panel setup
  - 🌐 DNS 
  - 📱 Mobile App development
  - 📱 💻 Cros Platform development
  - Desktop App development
  - Aws micro services
  - ✅ Code review
+ - spam on 📧 codeblogs03@gmail.com
 
 ### Support
 https://paypal.me/codewithfun
