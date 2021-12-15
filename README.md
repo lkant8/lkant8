@@ -1,4 +1,4 @@
-### Hi there, I'm Laxmi kant - [codewith-fun][website] 👋
+### Hi there, I'm codeblogs - [codewith-fun][website] 👋
 
 ## I'm a Student, learner & Developer!
 - 🔭 I’m currently working on a [Android code][website]!
@@ -12,7 +12,7 @@
 [<img align="left" alt="codewith-fun.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codewithfun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="pal_meja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="laxmi kant pal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeblogs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pal_meja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
