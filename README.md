@@ -55,14 +55,16 @@
 - [Android Core interview questions part 1](https://codeblogs.medium.com/android-core-interview-questions-part-1-b5d356056432?source=rss-535b12e1a601------2)
 <!-- BLOG-POST-LIST:END -->
 
-### 🔰 🔰 Services
+### 🔰 🔰 Services 🔨
  - SSL/SSH providing.
  - AWS Setup.
  - Custom C-panel setup
- - DNS 
- - Mobile App development
- - Cros Platform development
+ - 🌐 DNS 
+ - 📱 Mobile App development
+ - 📱 💻 Cros Platform development
  - Desktop App development
+ - Aws micro services
+ - ✅ Code review
 
 ### Support
 https://paypal.me/codewithfun
