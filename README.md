@@ -1,6 +1,8 @@
 ### Hi there, I'm codeblogs - [codewith-fun][website] 👋
 
-## I'm a Student, learner & Developer!
+<!-- ## I'm a Student, learner & Developer! -->
+## codeblogs, learner & Developer!
+
 - 🔭 I’m currently working on a [Android code][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -9,11 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codewith-fun.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="codewith-fun.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="codewithfun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="pal_meja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeblogs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pal_meja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="pal_meja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" alt="codeblogs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+<!-- [<img align="left" alt="pal_meja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -57,7 +59,7 @@
 https://paypal.me/codewithfun
 
 
-<img align="left" alt="Laxmi kant , Github Stats" src="https://github-readme-stats.vercel.app/api?username=codewith-fun&theme=blue-green&show_icons=true&hide_border=true" />
+<img align="left" alt="codeblogs , Github Stats" src="https://github-readme-stats.vercel.app/api?username=codewith-fun&theme=blue-green&show_icons=true&hide_border=true" />
 
 <!-- BLOG-POST-LIST:START
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheft&layout=compact" />
@@ -67,11 +69,11 @@ https://paypal.me/codewithfun
 <b>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</b>
   <img align='right' src="https://komarev.com/ghpvc/?username=codewith-fun" alt="codewith-fun" />
 
-[website]: https://dacodewithfun.github.io
-[twitter]: https://twitter.com/codewith_fun
+<!-- [website]: https://dacodewithfun.github.io -->
+<!-- [twitter]: https://twitter.com/codewith_fun -->
 [youtube]: https://youtube.com/codewithfun
-[instagram]: https://instagram.com/pal_meja
-[linkedin]: https://in.linkedin.com/in/laxmi-kant-1a853318b
+<!-- [instagram]: https://instagram.com/pal_meja -->
+<!-- [linkedin]: https://in.linkedin.com/in/laxmi-kant-1a853318b -->
 [webdevplaylist]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
 [jsplaylist]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
 [cssplaylist]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
