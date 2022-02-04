@@ -1,12 +1,13 @@
-### Hi there, I'm codeblogs - [codewith-fun][website] 👋
+### Hi there, I'm Laxmi kant - [codeblogs][website] 👋
 
 <!-- ## I'm a Student, learner & Developer! -->
-## codeblogs, learner & Developer!
+## codeblogs, learner & Developer! <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
 - 🔭 I’m currently working on a [Android code][website]!
 - 🌱 I’m currently learning everything 🤣
+- 2022 <img src="https://media.giphy.com/media/dWCu9zDikqi9R4W3VC/giphy.gif" width="50">: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- I’m also writing a blog on *"Challenges faced with open source API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - ⚡ Fun fact: I love to listening song and bagpack / watching Netflix
 
 ### Connect with me:
@@ -67,8 +68,6 @@
  - ✅ Code review
  - spam me on 📧 codeblogs03@gmail.com
 
-### Support
-https://paypal.me/codewithfun
 
 
 <img align="left" alt="codeblogs , Github Stats" src="https://github-readme-stats.vercel.app/api?username=codewith-fun&theme=blue-green&show_icons=true&hide_border=true" />
@@ -83,14 +82,12 @@ https://paypal.me/codewithfun
 <!-- BLOG-POST-LIST:START
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheft&layout=compact" />
 -->
-  
-  
-<b>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</b>
-  <img align='right' src="https://komarev.com/ghpvc/?username=codewith-fun" alt="codewith-fun" />
+  ### Buy me a coffee
+https://paypal.me/codewithfun
 
-<!-- [website]: https://dacodewithfun.github.io -->
+[website]: https://codeblogs.info/
 <!-- [twitter]: https://twitter.com/codewith_fun -->
-[youtube]: https://youtube.com/codewithfun
+[youtube]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
 <!-- [instagram]: https://instagram.com/pal_meja -->
 <!-- [linkedin]: https://in.linkedin.com/in/laxmi-kant-1a853318b -->
 [webdevplaylist]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
