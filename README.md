@@ -73,6 +73,10 @@ https://paypal.me/codewithfun
 
 <img align="left" alt="codeblogs , Github Stats" src="https://github-readme-stats.vercel.app/api?username=codewith-fun&theme=blue-green&show_icons=true&hide_border=true" />
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewith-fun&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+[![Top Langs](https://github-readme-stats-codewith-fun.vercel.app//api/top-langs/?username=codewith-fun&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
 <!-- BLOG-POST-LIST:START
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheft&layout=compact" />
 -->
