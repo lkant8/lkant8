@@ -81,6 +81,19 @@
 <!-- BLOG-POST-LIST:START
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheft&layout=compact" />
 -->
+
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+  
+   [![Website Badge](https://img.shields.io/badge/codeblogs.info-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://codeblogs.info/)](https://codeblogs.info/) 
+   [![Linkedin Badge](https://img.shields.io/badge/Laxmikant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laxmi-kant-1a853318b/)](https://www.linkedin.com/in/laxmi-kant-1a853318b/) 
+   [![Medium Badge](https://img.shields.io/badge/@codeblogs-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@codeblogs)](https://medium.com/@codeblogs) 
+   [![Gmail Badge](https://img.shields.io/badge/Laxmi_kant-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laxmipalkant01@gmail.com)](mailto:laxmipalkant01@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@_laxmikant-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_laxmikant/)](https://instagram.com/_laxmikant) 
+<!--    [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351) -->
+<!--    [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
+ -->
+
   ### Buy me a coffee
 https://paypal.me/codewithfun
 
