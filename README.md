@@ -90,10 +90,9 @@
    [![Medium Badge](https://img.shields.io/badge/@codeblogs-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@codeblogs)](https://medium.com/@codeblogs) 
    [![Gmail Badge](https://img.shields.io/badge/Laxmi_kant-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laxmipalkant01@gmail.com)](mailto:laxmipalkant01@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@_laxmikant-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_laxmikant/)](https://instagram.com/_laxmikant) 
-<!--    [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351) -->
-<!--    [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
- -->
-
+ 
+ </p>
+ 
   ### Buy me a coffee
 https://paypal.me/codewithfun
 
