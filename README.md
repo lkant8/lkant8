@@ -96,7 +96,7 @@
   ### Buy me a coffee
 https://paypal.me/codewithfun
 
-[website]: https://codeblogs.info/
+[website]: https://medium.com/@codeblogs
 <!-- [twitter]: https://twitter.com/codewith_fun -->
 [youtube]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
 <!-- [instagram]: https://instagram.com/pal_meja -->
