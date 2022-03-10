@@ -56,7 +56,7 @@
 - [Android Core interview questions part 1](https://codeblogs.medium.com/android-core-interview-questions-part-1-b5d356056432?source=rss-535b12e1a601------2)
 <!-- BLOG-POST-LIST:END -->
 
-### 🔰 🔰 Services 🔨
+<!-- ### 🔰 🔰 Services 🔨
  - SSL/SSH providing.
  - AWS Setup.
  - 🔨 Custom C-panel setup
@@ -67,7 +67,7 @@
  - Aws micro services
  - ✅ Code review
  - spam me on 📧 codeblogs03@gmail.com
-
+ -->
 
 
 <img align="left" alt="codeblogs , Github Stats" src="https://github-readme-stats.vercel.app/api?username=codewith-fun&theme=blue-green&show_icons=true&hide_border=true" />
