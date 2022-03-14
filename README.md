@@ -94,9 +94,9 @@
  </p>
  
  
- ### Spotify Playing: <img align="center" alt="Headphone" height="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
-[![Spotify](https://spotify-now-playing-darktheft.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
- 
+<!--  ### Spotify Playing: <img align="center" alt="Headphone" height="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
+[![Spotify](https://spotify-now-playing-laxmikant.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
+  -->
   ### Buy me a coffee
 https://paypal.me/codewithfun
 
