@@ -49,11 +49,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Activity Launch Mode](https://codeblogs.medium.com/activity-launch-mode-13bf4e924296?source=rss-535b12e1a601------2)
 - [What can I do with kotlin : →](https://codeblogs.medium.com/what-can-i-do-with-kotlin-38fea7fddb5c?source=rss-535b12e1a601------2)
 - [Machine Learning with tensorFlow lite in mobile apps](https://codeblogs.medium.com/android-machine-learning-9f1c7f4947ef?source=rss-535b12e1a601------2)
 - [Application Class](https://codeblogs.medium.com/application-class-d683574ac112?source=rss-535b12e1a601------2)
 - [Android Context](https://codeblogs.medium.com/android-context-2371c3000c12?source=rss-535b12e1a601------2)
-- [Android Core interview questions part 1](https://codeblogs.medium.com/android-core-interview-questions-part-1-b5d356056432?source=rss-535b12e1a601------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 🔰 🔰 Services 🔨
