@@ -76,8 +76,10 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewith-fun&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 <br />
+
 [![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app/api/top-langs/?layout=compact&bg_color=0d1117&username=codewith-fun&langs_count=10&hide_title=true&hide_border=true&text_color=fefefe&theme=gotham&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+
 <!-- BLOG-POST-LIST:START
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheft&layout=compact" />
 -->
