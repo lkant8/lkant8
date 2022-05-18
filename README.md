@@ -68,7 +68,10 @@
  - ✅ Code review
  - spam me on 📧 codeblogs03@gmail.com
  -->
-
+</br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ᒪᗩ᙭ᗰꭵ-ᛕᗩᑎ丅-1a853318b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/%E1%92%AA%E1%97%A9%E1%99%AD%E1%97%B0%EA%AD%B5-%E1%9B%95%E1%97%A9%E1%91%8E%E4%B8%85-1a853318b?trk=profile-badge">ᒪᗩ᙭ᗰᎥ ᛕᗩᑎ丅</a></div>
+              
+ </br>
 
 <img align="left" alt="codeblogs , Github Stats" src="https://github-readme-stats.vercel.app/api?username=codewith-fun&theme=blue-green&show_icons=true&hide_border=true" />
 
