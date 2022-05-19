@@ -103,7 +103,7 @@
 [![Spotify](https://spotify-now-playing-laxmikant.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
   -->
   ### Buy me a coffee
-https://paypal.me/codewithfun
+https://paypal.me/codeblogs
 
 [website]: https://medium.com/@codeblogs
 <!-- [twitter]: https://twitter.com/codewith_fun -->
