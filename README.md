@@ -49,11 +49,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin variables var, val, lateinit and lazy](https://codeblogs.medium.com/kotlin-variables-var-val-lateinit-and-lazy-1123aaa053bb?source=rss-535b12e1a601------2)
 - [Must Know These Points Before Studying MBBS in Philippines](https://codeblogs.medium.com/must-know-these-points-before-studying-mbbs-in-philippines-3912e6f50368?source=rss-535b12e1a601------2)
 - [Activity Embedding in Android](https://codeblogs.medium.com/activity-embedding-in-android-a5d6fcdc1209?source=rss-535b12e1a601------2)
 - [HashMap Introduction](https://codeblogs.medium.com/hashmap-introduction-6b4e1034ca0b?source=rss-535b12e1a601------2)
 - [Activity Launch Mode](https://codeblogs.medium.com/activity-launch-mode-13bf4e924296?source=rss-535b12e1a601------2)
-- [What can I do with kotlin : →](https://codeblogs.medium.com/what-can-i-do-with-kotlin-38fea7fddb5c?source=rss-535b12e1a601------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 🔰 🔰 Services 🔨
