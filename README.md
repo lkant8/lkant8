@@ -39,10 +39,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Two Sum &lpar;Leetcode 1&rpar; - Easy Kotlin  #leetcode #algorithm #interviewquestions](https://www.youtube.com/watch?v=8DBRF6lrCb0)
-- [Love you papa ❤️❤️😊](https://www.youtube.com/watch?v=LYnVcKvcT94)
-- [Funny moment in function 😂😂 new set dance show#marrigevideo  #dance #dancevideo  #sortstory #shorts](https://www.youtube.com/watch?v=X0rGGHd7TBQ)
-- [gurjar ka rap 😜😍😍](https://www.youtube.com/watch?v=cYhwlZd0vj4)
-- [Munna Sad speech 😭😭😩](https://www.youtube.com/watch?v=cpZ2MVD9cTo)
+- [Khan sir.🔥🔥 #khansir #sandeepmaheshwari](https://www.youtube.com/watch?v=SyWiV02GH5o)
+- [destruction of physics 😜😂😂 Khan sir.](https://www.youtube.com/watch?v=_tctee7NIPY)
+- [Edit pdf/image online for free 🆓🔥😱💻](https://www.youtube.com/watch?v=nrpM446_TFc)
+- [Robot driving cycle #python programming](https://www.youtube.com/watch?v=9DbQQgwupUM)
 <!-- YOUTUBE:END -->
 
 
