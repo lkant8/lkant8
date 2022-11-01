@@ -49,7 +49,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Flutter](https://codeblogs.medium.com/getting-started-with-flutter-ea3ea7367461?source=rss-535b12e1a601------2)
+- [Getting Started With Flutter || flutter 3](https://codeblogs.medium.com/getting-started-with-flutter-ea3ea7367461?source=rss-535b12e1a601------2)
 - [onBackPressed&lpar;&rpar; deprecated, What is the alternative ?](https://codeblogs.medium.com/onbackpressed-deprecated-what-is-the-alternative-da70a1d8a8a7?source=rss-535b12e1a601------2)
 - [Android View Binding | Use of view binding | replace findViewById | view Binding in Jetpack compose](https://codeblogs.medium.com/android-view-binding-use-of-view-binding-replace-findviewbyid-view-binding-in-jetpack-compose-2b7c4c6a6c3c?source=rss-535b12e1a601------2)
 - [Android Activities and lifecycle methods](https://codeblogs.medium.com/android-activities-and-lifecycle-methods-77a5f79fb904?source=rss-535b12e1a601------2)
