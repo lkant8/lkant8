@@ -90,7 +90,7 @@
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/Mcode-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mcode.hashnode.dev/)](https://mcode.hashnode.dev/) 
+   [![Website Badge](https://img.shields.io/badge/Mcode-FFFFFF?style=flat&logo=hashnode&logoColor=285FF7&link=https://mcode.hashnode.dev/)](https://mcode.hashnode.dev/) 
    [![Linkedin Badge](https://img.shields.io/badge/Laxmikant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laxmi-kant-1a853318b/)](https://www.linkedin.com/in/laxmi-kant-1a853318b/) 
    [![Medium Badge](https://img.shields.io/badge/@codeblogs-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@codeblogs)](https://medium.com/@codeblogs) 
    [![Gmail Badge](https://img.shields.io/badge/Laxmi_kant-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laxmipalkant01@gmail.com)](mailto:laxmipalkant01@gmail.com)
