@@ -90,11 +90,11 @@
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/codeblogs.info-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://codeblogs.info/)](https://codeblogs.info/) 
+   [![Website Badge](https://img.shields.io/badge/Mcode-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mcode.hashnode.dev/)](https://mcode.hashnode.dev/) 
    [![Linkedin Badge](https://img.shields.io/badge/Laxmikant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laxmi-kant-1a853318b/)](https://www.linkedin.com/in/laxmi-kant-1a853318b/) 
    [![Medium Badge](https://img.shields.io/badge/@codeblogs-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@codeblogs)](https://medium.com/@codeblogs) 
    [![Gmail Badge](https://img.shields.io/badge/Laxmi_kant-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laxmipalkant01@gmail.com)](mailto:laxmipalkant01@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@_laxmikant-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_laxmikant/)](https://instagram.com/_laxmikant) 
+   [![Instagram Badge](https://img.shields.io/badge/-@alwayslaxmikant-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/alwayslaxmikant/)](https://instagram.com/alwayslaxmikant) 
  
  </p>
  
