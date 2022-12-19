@@ -1,7 +1,7 @@
 ### Hi there, I'm Laxmi kant - [MCode][website] 👋
 
 <!-- ## I'm a Student, learner & Developer! -->
-## Laxmi kant, learner & Developer! <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/><img align="center" alt="Android" width="55" src="https://media.giphy.com/media/wBvdVGaSsamOxPy5qY/giphy.gif"/>
+## <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/><img align="center" alt="Android" width="55" src="https://media.giphy.com/media/wBvdVGaSsamOxPy5qY/giphy.gif"/>
 
 
 - 🔭 I’m currently working on a [Android code][website]!
