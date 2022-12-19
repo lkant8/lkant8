@@ -1,7 +1,8 @@
-### Hi there, I'm Laxmi kant - [codeblogs][website] 👋
+### Hi there, I'm Laxmi kant - [MCode][website] 👋
 
 <!-- ## I'm a Student, learner & Developer! -->
-## Laxmi kant, learner & Developer! <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+## Laxmi kant, learner & Developer! <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/><img align="center" alt="Android" width="55" src="https://media.giphy.com/media/wBvdVGaSsamOxPy5qY/giphy.gif"/>
+
 
 - 🔭 I’m currently working on a [Android code][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -105,7 +106,7 @@
   ### Buy me a coffee
 https://paypal.me/codeblogs
 
-[website]: https://medium.com/@codeblogs
+[website]: https://medium.com/@mcode-app
 <!-- [twitter]: https://twitter.com/codewith_fun -->
 [youtube]: https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
 <!-- [instagram]: https://instagram.com/pal_meja -->
