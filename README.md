@@ -103,8 +103,8 @@
 <!--  ### Spotify Playing: <img align="center" alt="Headphone" height="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
 [![Spotify](https://spotify-now-playing-laxmikant.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
   -->
-  ### Buy me a coffee
-https://paypal.me/codeblogs
+  ### 
+<a href="https://www.buymeacoffee.com/mcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 [website]: https://medium.com/@mcode-app
 <!-- [twitter]: https://twitter.com/codewith_fun -->
