@@ -28,7 +28,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="android" width="26px" src="https://github.com/actions/starter-workflows/blob/948df6a3d0b8c4d80d97154eaa4bcbc157cff432/icons/android.svg" />][webdevplaylist]
-[<img align="left" alt="java" width="26px" src="https://github.com/codewith-fun/Flash/blob/master/PNG/java.png" />][webdevplaylist]
+[<img align="left" alt="java" width="26px" src="https://github.com/mcode8/Flash/blob/master/PNG/java.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
@@ -70,18 +70,18 @@
  - spam me on 📧 codeblogs03@gmail.com
  -->
 </br>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ᒪᗩ᙭ᗰꭵ-ᛕᗩᑎ丅-1a853318b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/%E1%92%AA%E1%97%A9%E1%99%AD%E1%97%B0%EA%AD%B5-%E1%9B%95%E1%97%A9%E1%91%8E%E4%B8%85-1a853318b?trk=profile-badge">ᒪᗩ᙭ᗰᎥ ᛕᗩᑎ丅</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mcode8-1a853318b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/%E1%92%AA%E1%97%A9%E1%99%AD%E1%97%B0%EA%AD%B5-%E1%9B%95%E1%97%A9%E1%91%8E%E4%B8%85-1a853318b?trk=profile-badge">mcode8</a></div>
               
  </br>
 
-<img align="left" alt="codeblogs , Github Stats" src="https://github-readme-stats.vercel.app/api?username=codewith-fun&theme=blue-green&show_icons=true&hide_border=true" />
+<img align="left" alt="codeblogs , Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcode8&theme=blue-green&show_icons=true&hide_border=true" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-fun&theme=github-dark&hide_border=true" alt="CodeBlogs"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcode8&theme=github-dark&hide_border=true" alt="CodeBlogs"/></p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewith-fun&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcode8&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 <br />
 
-[![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app/api/top-langs/?layout=compact&bg_color=0d1117&username=codewith-fun&langs_count=10&hide_title=true&hide_border=true&text_color=fefefe&theme=gotham&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app/api/top-langs/?layout=compact&bg_color=0d1117&username=mcode8&langs_count=10&hide_title=true&hide_border=true&text_color=fefefe&theme=gotham&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 <!-- BLOG-POST-LIST:START
