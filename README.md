@@ -78,7 +78,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcode8&theme=github-dark&hide_border=true" alt="CodeBlogs"/></p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcode8&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcode8&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe) -->
+
 <br />
 
 [![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app/api/top-langs/?layout=compact&bg_color=0d1117&username=mcode8&langs_count=10&hide_title=true&hide_border=true&text_color=fefefe&theme=gotham&hide=html)](https://github.com/anuraghazra/github-readme-stats)
