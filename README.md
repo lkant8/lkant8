@@ -39,11 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Upcomming Coding Vlogs @laxmi_kant   #kotlin](https://www.youtube.com/watch?v=n_ejGxQkDsY)
 - [#2 Welcome, Login, Signup Page - Flutter UI in Hindi #part2 #2022](https://www.youtube.com/watch?v=l3pt9TZu6ao)
 - [Learn app development from scratch #laxmikant #appdevelopment #development](https://www.youtube.com/watch?v=3HOiERpNKkU)
 - [#1 Welcome, Login, Signup Page - Flutter UI in Hindi #part1](https://www.youtube.com/watch?v=qe_yE5DJHOk)
 - [Flutter awesome login](https://www.youtube.com/watch?v=fi6rSmeP0iY)
-- [Two Sum &lpar;Leetcode 1&rpar; - Easy Kotlin  #leetcode #algorithm #interviewquestions](https://www.youtube.com/watch?v=8DBRF6lrCb0)
 <!-- YOUTUBE:END -->
 
 
