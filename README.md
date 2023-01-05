@@ -40,7 +40,7 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Leetcode  Maximum Subarray Sum  Kadane&#39;s_Algorithm @LaxmiKantDSA](https://www.youtube.com/watch?v=1NZTcXoVyRg)
-- [Kotlin interview questions PDF and blogs   @laxmi_kant](https://www.youtube.com/watch?v=n_ejGxQkDsY)
+- [Kotlin interview questions free PDF notebook and blogs By   @LaxmiKantDSA](https://www.youtube.com/watch?v=n_ejGxQkDsY)
 - [#2 Welcome, Login, Signup Page - Flutter UI in Hindi #part2 #2022](https://www.youtube.com/watch?v=l3pt9TZu6ao)
 - [Learn app development from scratch #laxmikant #appdevelopment #development](https://www.youtube.com/watch?v=3HOiERpNKkU)
 - [#1 Welcome, Login, Signup Page - Flutter UI in Hindi #part1](https://www.youtube.com/watch?v=qe_yE5DJHOk)
