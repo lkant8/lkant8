@@ -39,11 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Android &lpar;Kotlin&rpar; Jetpack compose Foldable device using Window Manager Hindi @LaxmiKantDSA](https://www.youtube.com/watch?v=QpE4cJHNdwE)
 - [Android &lpar;Kotlin&rpar; Jetpack compose Foldable device using Window Manager Hindi  @LaxmiKantDSA ​](https://www.youtube.com/watch?v=vUt4NnnLlB0)
 - [This GitHub hacks will blow your mind #shorts @LaxmiKantDSA](https://www.youtube.com/watch?v=8x2Wxcho0r8)
 - [Leetcode  Maximum Subarray Sum   #Kadane&#39;s_Algorithm  @LaxmiKantDSA​](https://www.youtube.com/watch?v=W2DKm6mVTDE)
 - [Leetcode  Maximum Subarray Sum  Kadane&#39;s_Algorithm @LaxmiKantDSA](https://www.youtube.com/watch?v=1NZTcXoVyRg)
-- [Kotlin interview questions free PDF notebook and blogs By   @LaxmiKantDSA](https://www.youtube.com/watch?v=n_ejGxQkDsY)
 <!-- YOUTUBE:END -->
 
 
