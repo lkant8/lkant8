@@ -39,11 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dart tutorials for beginners variable and primitive types](https://www.youtube.com/watch?v=cF2ZMLm-Sls)
 - [Mobile app UI #shorts #shortvideo #short #feedshorts #shortsfeed @laxmi_kant](https://www.youtube.com/watch?v=BCrt9b2Ob94)
 - [Dart variables and primitive types #flutter @laxmi_kant  let me do it for you](https://www.youtube.com/watch?v=Z1cOq5YGJdk)
 - [Flutter login ui source code #shorts #shortvideo #shortsfeed #shortsyoutube   #laxmikant](https://www.youtube.com/watch?v=K8A3h-8S6pQ)
 - [flutter login ui #shorts #shortvideo #shortsvideo #shortsfeed #shortsyoutube @laxmi_kant](https://www.youtube.com/watch?v=curbikNJDDk)
-- [#kotlin  val vs var #shorts #ytshorts #youtubeshorts #explore #explorepage #trendingshorts](https://www.youtube.com/watch?v=X0Py2rz8MSs)
 <!-- YOUTUBE:END -->
 
 
