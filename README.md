@@ -39,11 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Podcast app UI 😍😊👌 #shorts #shortvideo #shortsfeed #shortsyoutube #shortsvideo #short](https://www.youtube.com/watch?v=dzcX0F7Gfpc)
 - [flutter ui 😍😊👌 #shorts #shortvideo #shortsfeed #shortsyoutube #shortsvideo #short  @laxmi_kant](https://www.youtube.com/watch?v=daHxg8Lf1c8)
 - [Flutter ui #shorts #shortvideo #shortsfeed #shortsyoutube #shortsvideo #short @laxmi_kant](https://www.youtube.com/watch?v=yFAqcvmLyZ4)
 - [Flutter ui | cross platform 😍😊👌 #shorts #shortvideo #shortsfeed #shortsyoutube #shortsvideo #short](https://www.youtube.com/watch?v=B1Puf24e3Dc)
 - [flutter ui #shorts #shortvideo #shortsfeed #shortsyoutube #shortsvideo #short @laxmi_kant](https://www.youtube.com/watch?v=X0_XjQ4kDVQ)
-- [Tutorials for beginners variables and primitive type #shorts #shortvideo #shortsfeed #shortsyoutube](https://www.youtube.com/watch?v=vu0S2QTTFcY)
 <!-- YOUTUBE:END -->
 
 
