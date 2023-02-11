@@ -50,11 +50,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Null Safety in Flutter: Understanding Null Safety Operators and Functions](https://mcode-app.medium.com/mastering-null-safety-in-flutter-understanding-null-safety-operators-and-functions-91b28ab3d77c?source=rss-535b12e1a601------2)
 - [How To Get More YouTube Subscribers In 2023: Make A Channel Subscribe Link](https://mcode-app.medium.com/how-to-get-more-youtube-subscribers-in-2023-make-a-channel-subscribe-link-3e52f5da2861?source=rss-535b12e1a601------2)
 - [Variables and Primitive types |Dart | Flutter](https://mcode-app.medium.com/variables-and-primitive-types-dart-flutter-cf20a65795ca?source=rss-535b12e1a601------2)
 - [Leetcode solution java | c++ 53Maximum Subarray](https://mcode-app.medium.com/leetcode-solution-java-c-53maximum-subarray-35e5382d6112?source=rss-535b12e1a601------2)
 - [What is ArrayDeque || Kotlin Deque?](https://mcode-app.medium.com/what-is-arraydeque-kotlin-deque-f08cfc6dc702?source=rss-535b12e1a601------2)
-- [Getting Started With Flutter || flutter 3](https://mcode-app.medium.com/getting-started-with-flutter-ea3ea7367461?source=rss-535b12e1a601------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 🔰 🔰 Services 🔨
