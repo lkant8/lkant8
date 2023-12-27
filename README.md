@@ -11,6 +11,16 @@
 - I’m also writing a blog on *"Challenges faced with open source API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - ⚡ Fun fact: I love to listening song and bagpack / watching Netflix
 
+### Donate $1 to Developer
+
+Account holder: Laxmi Kant Pal </br>
+Routing number: 026073150 </br>
+SWIFT/BIC: CMFGUS33 </br>
+Account number: 8313981677 </br>
+Wise's address: 30 W. 26th Street, Sixth Floor </br>
+New York NY 10010 </br>
+United States </br>
+
 ### Connect with me:
 
 <!-- [<img align="left" alt="codewith-fun.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -106,6 +116,8 @@
   -->
   ### 
 <a href="https://www.buymeacoffee.com/mcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 
 [website]: https://medium.com/@mcode-app
 <!-- [twitter]: https://twitter.com/codewith_fun -->
