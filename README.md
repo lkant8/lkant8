@@ -11,6 +11,20 @@
 - I’m also writing a blog on *"Challenges faced with open source API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - ⚡ Fun fact: I love to listening song and bagpack / watching Netflix
 
+### Bitcoin Wallet address
+
+```
+bc1q8dmq40k5dzzjgwau0yvvrsqqdtzzdt4ydzv08p
+
+```
+
+### Tether
+
+```
+TLdi1eu6tRvGqv36mJzPL36ywqbv2sm7wU
+
+```
+
 ### Donate $1 to Developer
 
 Account holder: Laxmi Kant Pal </br>
