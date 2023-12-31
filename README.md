@@ -12,16 +12,21 @@
 - ⚡ Fun fact: I love to listening song and bagpack / watching Netflix
 
 ### Bitcoin Wallet address
-
 ```
 bc1q8dmq40k5dzzjgwau0yvvrsqqdtzzdt4ydzv08p
 
 ```
 
 ### Tether
-
+TRC20
 ```
 TLdi1eu6tRvGqv36mJzPL36ywqbv2sm7wU
+
+```
+
+ERC20
+```
+0x99cd3eA60270208455019C50A933e54CaBD70A77
 
 ```
 
