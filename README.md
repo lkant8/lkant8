@@ -11,35 +11,6 @@
 - I’m also writing a blog on *"Challenges faced with open source API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - ⚡ Fun fact: I love to listening song and bagpack / watching Netflix
 
-### Bitcoin Wallet address
-```
-bc1q8dmq40k5dzzjgwau0yvvrsqqdtzzdt4ydzv08p
-
-```
-
-### Tether
-TRC20
-```
-TLdi1eu6tRvGqv36mJzPL36ywqbv2sm7wU
-
-```
-
-ERC20
-```
-0x99cd3eA60270208455019C50A933e54CaBD70A77
-
-```
-
-### Donate $1 to Developer
-
-Account holder: Laxmi Kant Pal </br>
-Routing number: 026073150 </br>
-SWIFT/BIC: CMFGUS33 </br>
-Account number: 8313981677 </br>
-Wise's address: 30 W. 26th Street, Sixth Floor </br>
-New York NY 10010 </br>
-United States </br>
-
 ### Connect with me:
 
 <!-- [<img align="left" alt="codewith-fun.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
