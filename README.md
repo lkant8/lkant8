@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on a [Android code][website]!
-- 🌱 I’m currently learning everything 🤣
-- 2023 <img src="https://media.giphy.com/media/dWCu9zDikqi9R4W3VC/giphy.gif" width="50">: Contribute more to Open Source projects
+- 🌱 I’m currently involved in Kotlin.
+- 2024 <img src="https://media.giphy.com/media/dWCu9zDikqi9R4W3VC/giphy.gif" width="50">: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with other content creators
 - I’m also writing a blog on *"Challenges faced with open source API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - ⚡ Fun fact: I love to listening song and bagpack / watching Netflix
