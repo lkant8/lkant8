@@ -50,7 +50,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Concept of DI](https://mcode-app.medium.com/concept-of-di-8db8149aa6e1?source=rss-535b12e1a601------2)
+- [Concept of DI](https://medium.com/mcodepub/concept-of-di-8db8149aa6e1?source=rss-535b12e1a601------2)
 - [Simplifying State Management in Jetpack Compose: Effortless Flow Observation](https://medium.com/mcodepub/simplifying-state-management-in-jetpack-compose-effortless-flow-observation-e0b7a1271556?source=rss-535b12e1a601------2)
 - [Modularization](https://medium.com/mcodepub/modularization-898d5bc63617?source=rss-535b12e1a601------2)
 - [The 14 most intriguing features of Android will be examined in this post.](https://mcode-app.medium.com/the-14-most-intriguing-features-of-android-will-be-examined-in-this-post-33ea2aee5c29?source=rss-535b12e1a601------2)
